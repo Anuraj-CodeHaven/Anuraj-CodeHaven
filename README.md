@@ -22,7 +22,7 @@ I'm a **Computer Engineering** enthusiast and a recent **Diploma graduate** with
 ### 💞️ Collaboration Opportunities
 I'm always open to collaboration on:
 - Security research and bug bounty projects
-- Innovative **c**,**Flutter** and **Python** projects
+- Innovative **C**,**Flutter** and **Python** projects
 - Any **open-source projects** related to web and application development
 
 ---
