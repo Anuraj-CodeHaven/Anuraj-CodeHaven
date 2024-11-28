@@ -1,50 +1,86 @@
-# 👋 Hi, I’m Anuraj (@Anuraj-CodeHaven)
 
-I'm a **Computer Engineering** enthusiast and a recent **Diploma graduate** with a strong interest in **software development, bug bounty hunting, and security research**. I enjoy tackling complex problems and working on innovative projects. Welcome to my GitHub!
+👋 Hi, I’m Anuraj (@Anuraj-CodeHaven)
 
----
+Welcome to my GitHub! I’m a Computer Engineering enthusiast, a recent Diploma graduate, and a passionate developer focused on software development, bug bounty hunting, and security research. I thrive on solving complex problems and building innovative projects that make a difference.
 
-### 👀 Interests
-- **Bug Bounties**: Actively exploring and sharing insights about vulnerability hunting
-- **Open Source**: Developing tools to simplify everyday coding tasks
-- **Web Development**: Building robust applications using **HTML, CSS, JavaScript, Flutter, and Dart**
-- **Cloud & DevOps**: Learning the intricacies of Docker and containerization for efficient deployment
 
 ---
 
-### 🌱 Currently Learning
-- Advanced **DevOps** tools and practices
-- Improving my **Python** skills, with a focus on package development (Check out my `setconstant-package`)
-- **SQL Injection** and other security testing methods with tools like SQLMap
+👀 What I Do
+
+Bug Bounties: Exploring vulnerabilities, security testing, and sharing insights.
+
+Open Source Development: Building tools to simplify coding tasks.
+
+Web Development: Creating applications using HTML, CSS, JavaScript, Flutter, and Dart.
+
+Cloud & DevOps: Learning tools like Docker and improving deployment processes.
+
+
 
 ---
 
-### 💞️ Collaboration Opportunities
-I'm always open to collaboration on:
-- Security research and bug bounty projects
-- Innovative **C**,**Flutter** and **Python** projects
-- Any **open-source projects** related to web and application development
+🌱 What I’m Learning
+
+Advanced DevOps tools for streamlined deployment.
+
+Enhancing my Python skills (Check out my project: setconstant-package).
+
+Improving expertise in SQL Injection and security tools like SQLMap.
+
+
 
 ---
 
-### 📫 How to Reach Me
-- **Email**: [anurajanu2883@gmail.com](mailto:anurajanu2883@gmail.com)
-- **GitHub**: [@Anuraj-CodeHaven](https://github.com/anuraj-codehaven)
-- **LinkedIn**: Reach out if you’re interested in collaborating on exciting projects or if you have opportunities in **computer engineering** or **software development**.
+💞️ Collaborate With Me
+
+I’m interested in working on:
+
+Security Research and Bug Bounty Projects.
+
+Innovative Python, Flutter, and C Programming projects.
+
+Open-source tools for web and application development.
+
+
 
 ---
 
-### 😄 Pronouns
-He/Him
+📫 Get in Touch
+
+Email: anurajanu2883@gmail.com
+
+GitHub: @Anuraj-CodeHaven
+
+LinkedIn:https://www.linkedin.com/in/anuraj-r-742703301
+
+
 
 ---
 
-### ⚡ Fun Fact
-Did you know? I’m creating a **Snake and Ladder game**,**Last coin stand game** in both **Python and C**! It’s one of my favorite ongoing projects that combines creativity with code logic.
+😄 Fun Fact
+
+I’m building Snake and Ladder and Last Coin Stand games in Python and C! These projects combine creativity with logic and are close to my heart.
+
 
 ---
 
-<!---
-Anuraj-CodeHaven/Anuraj-CodeHaven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⚡ Why Choose My GitHub?
+
+Unique projects combining software development and security research.
+
+Constantly contributing to the open-source community.
+
+A platform to explore cutting-edge technologies in web development and cloud computing.
+
+
+
+---
+
+🚀 Boost Your Visibility
+
+This README is SEO-optimized to enhance my GitHub profile visibility.
+
+Content structured for better parsing by search engines, helping @Anuraj-CodeHaven stand out in search results.
+
+Keywords include: software development, security research, web development, Flutter, Python, and bug bounty hunting.
