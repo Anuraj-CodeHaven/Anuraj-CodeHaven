@@ -77,7 +77,7 @@ A platform to explore cutting-edge technologies in web development and cloud com
 
 ---
 
-🚀 Boost Your Visibility
+🚀 Boost the Visibility
 
 This README is SEO-optimized to enhance my GitHub profile visibility.
 
