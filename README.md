@@ -75,44 +75,85 @@ I love building solutions that solve real-world problems, especially where techn
 
 ## 💻 Featured Projects
 
-<table>
-  <tr>
-    <td>
-      <h3>🔍 Smart Attendance System</h3>
-      <p>An AI-powered attendance system that uses facial recognition technology to automate the attendance process.</p>
-      <p><strong>Technologies:</strong> Python, OpenCV, TensorFlow, Flask</p>
-      <a href="https://github.com/Anuraj-CodeHaven/smart-attendance">View Project →</a>
-    </td>
-    <td>
-      <h3>🦁 Wildlife Intrusion Detection</h3>
-      <p>A system designed to detect wildlife intrusions in villages to prevent human-animal conflicts using motion sensors and alerts.</p>
-      <p><strong>Technologies:</strong> Python, Raspberry Pi, Computer Vision, IoT</p>
-      <a href="https://github.com/Anuraj-CodeHaven/wildlife-detection">View Project →</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>📦 setconstant Package</h3>
-      <p>My own Python package designed to simplify working with constant values in Python applications.</p>
-      <p><strong>Technologies:</strong> Python, PyPI</p>
-      <a href="https://github.com/Anuraj-CodeHaven/setconstant">View Project →</a>
-    </td>
-    <td>
-      <h3>🎮 Snake and Ladder Game</h3>
-      <p>A classic Snake and Ladder game implementation with interactive UI and gameplay mechanics.</p>
-      <p><strong>Technologies:</strong> Python, Pygame</p>
-      <a href="https://github.com/Anuraj-CodeHaven/snake-ladder">View Project →</a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <h3>🎲 Last Coin Stand Game</h3>
-      <p>A strategic game developed in C where players compete to take the last coin from a pile using different strategies.</p>
-      <p><strong>Technologies:</strong> C, Game Theory</p>
-      <a href="https://github.com/Anuraj-CodeHaven/last-coin-stand">View Project →</a>
-    </td>
-  </tr>
-</table>
+## 🔍 Smart Attendance System
+A smart attendance system that uses QR code scanning to automate attendance marking and prevent unauthorized attendance via image-based cheating.
+
+![Smart Attendance](https://img.shields.io/badge/Project-Smart_Attendance-blue?style=flat&logo=python&logoColor=white)
+
+### Features:
+- **QR code scanning** for automatic attendance marking.
+- Prevents **image-based cheating** (photos of QR codes).
+- **Real-time updates** for teachers and students.
+
+### Technologies:
+Python, Django, QR Code
+
+[🔗 View Project →](https://github.com/Anuraj-CodeHaven/smart-attendance)
+
+---
+
+## 🦁 Wildlife Detection and Alert System
+A system designed to detect wildlife intrusions near forest-village borders and alert authorities to prevent human-animal conflicts.
+
+![Wildlife Detection](https://img.shields.io/badge/Project-Wildlife_Detection-green?style=flat&logo=python&logoColor=white)
+
+### Features:
+- **Image classification** to identify wildlife.
+- **Real-time alerts** sent to forest officers via SMS.
+
+### Technologies:
+Python, OpenCV, TensorFlow, Twilio, Django
+
+[🔗 View Project →](https://github.com/Anuraj-CodeHaven)
+
+---
+
+## 📦 setconstant Package
+A Python package designed to simplify managing constant values in Python applications by providing a central way to store and access constants.
+
+![setconstant Package](https://img.shields.io/badge/Project-setconstant-purple?style=flat&logo=python&logoColor=white)
+
+### Features:
+- Centralized management of constant values.
+- Reduces the chances of errors due to setting constants in Python.
+- Simple and easy-to-use.
+
+### Technologies:
+Python, PyPI
+
+[🔗 View Project →](https://github.com/Anuraj-CodeHaven/setconstant)
+
+---
+
+## 🎮 Snake and Ladder Game
+A classic Snake and Ladder game built in Python, offering a simple terminal-based experience with classic game mechanics.
+
+![Snake and Ladder](https://img.shields.io/badge/Project-Snake_Ladder-orange?style=flat&logo=python&logoColor=white)
+
+### Features:
+- **Random dice rolls** to determine player moves.
+- Multiplayer option, including a bot player.
+
+### Technologies:
+Python
+
+[🔗 View Project →](https://github.com/Anuraj-CodeHaven/snake-ladder)
+
+---
+
+## 🎲 Last Coin Stand Game
+A strategic game where players compete to take the last coin from a pile, based on game theory strategies, developed in Python.
+
+![Last Coin Stand](https://img.shields.io/badge/Project-Last_Coin_Stand-red?style=flat&logo=python&logoColor=white)
+
+### Features:
+- **Multiple strategies** for taking coins from the pile.
+- **Terminal-based gameplay** with interactive features.
+
+### Technologies:
+Python
+
+[🔗 View Project →](https://github.com/Anuraj-CodeHaven/last-coin-stand)
 
 ---
 
