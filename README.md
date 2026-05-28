@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Anuraj R**, a passionate and creative final-year college student deeply interested in coding, AI, ethical hacking, cybersecurity, app development, and real-world technology projects. I thrive on solving complex problems and building innovative projects that make a difference.
+I'm **Anuraj R**, passionate and creative Java Developer with strong interests in Java Spring Boot,Python Django, Artificial Intelligence, ethical hacking, App Development, and real-world technology projects. I enjoy solving complex problems and building innovative solutions that create meaningful impact. Driven by curiosity and continuous learning, I am always eager to explore emerging technologies and enhance my technical expertise through practical development and hands-on projects.
 
 <a href="https://linkedin.com/in/anuraj-r-742703301"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:anurajanu2883@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -10,7 +10,7 @@ I'm **Anuraj R**, a passionate and creative final-year college student deeply in
 
 ## 👋 About Me
 
-Welcome to my GitHub! I'm a Computer Engineering enthusiast, a recent Diploma graduate, and a passionate developer focused on software development, bug bounty hunting, and security research. I'm actively learning Python, C, Flutter, Django, blockchain, and Android development, while working on innovative projects like Smart Attendance systems and Wildlife Intrusion Detection.
+Welcome to my GitHub! I'm a Computer Engineering enthusiast, a recent Diploma graduate, and a passionate developer focused on software development, bug bounty hunting, and security research. I'm actively learning Python, C, Flutter, Django, Java, java Spring Boot and Android development, while working on innovative projects like Smart Attendance systems and Wildlife Intrusion Detection.
 
 I love building solutions that solve real-world problems, especially where technology meets community needs — like wildlife-village conflict management. I'm ambitious, hardworking, and excited about both development and cybersecurity fields.
 
@@ -60,7 +60,7 @@ I love building solutions that solve real-world problems, especially where techn
 
 - **Bug Bounties**: Exploring vulnerabilities, security testing, and sharing insights. Successfully identified bugs in yip.kerala.gov.in.
 - **Open Source Development**: Building tools to simplify coding tasks and contributing to the community.
-- **Web Development**: Creating applications using HTML, CSS, JavaScript, Flutter, and Dart.
+- **Web Development**: Creating applications using HTML, CSS, JavaScript, Java Spring Boot application Development.
 - **Cloud & DevOps**: Learning tools like Docker and improving deployment processes.
 
 ## 🌱 What I'm Learning
@@ -68,7 +68,7 @@ I love building solutions that solve real-world problems, especially where techn
 - Advanced DevOps tools for streamlined deployment
 - Enhancing my Python skills (Check out my project: setconstant-package)
 - Improving expertise in SQL Injection and security tools like SQLMap
-- Blockchain technology and Android application development
+- Java spring boot and Android application development
 - Advanced penetration testing methodologies
 
 ---
