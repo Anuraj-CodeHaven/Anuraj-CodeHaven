@@ -11,7 +11,7 @@ I believe in learning by building, exploring beyond boundaries, and turning tech
 
 ## 👋 About Me
 
-Welcome to my GitHub! I'm a technology enthusiast driven by curiosity, creativity, and a passion for understanding how things work. My interests go beyond conventional software development, spanning Artificial Intelligence, Cybersecurity, Ethical Hacking, Vulnerability Research, Android Development, and emerging technologies.
+Welcome to my GitHub!, I'm a technology enthusiast driven by curiosity, creativity, and a passion for understanding how things work. My interests go beyond conventional software development, spanning Artificial Intelligence, Cybersecurity, Ethical Hacking, Vulnerability Research, Android Development, and emerging technologies.
 I enjoy exploring complex technical concepts, investigating security vulnerabilities, developing practical applications, and experimenting with innovative ideas. I'm particularly interested in projects that bridge the gap between technology and real-world problems.
 For me, programming is not just about writing code; it's about understanding problems, exploring possibilities, and creating meaningful solutions. I'm continuously learning, experimenting, and challenging myself to grow as a software engineer.
 
