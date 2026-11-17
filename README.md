@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-I'm **Anuraj R**, passionate and creative Java Developer with strong interests in Java Spring Boot,Python Django, Artificial Intelligence, ethical hacking, App Development, and real-world technology projects. I enjoy solving complex problems and building innovative solutions that create meaningful impact. Driven by curiosity and continuous learning, I am always eager to explore emerging technologies and enhance my technical expertise through practical development and hands-on projects.
+I'm **Anuraj R**,a Java Developer at **VSSC, ISRO***, passionate about software engineering and building innovative technology solutions. I enjoy working with Java, Spring Boot, Python, and web technologies, with a strong interest in backend development, system design, and solving real-world engineering challenges.
+I believe in learning by building, exploring beyond boundaries, and turning technical ideas into practical solutions. My curiosity extends from application development to artificial intelligence and cybersecurity, constantly motivating me to experiment with new technologies and improve my problem-solving skills.
 
 <a href="https://linkedin.com/in/anuraj-r-742703301"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:anurajanu2883@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -10,9 +11,9 @@ I'm **Anuraj R**, passionate and creative Java Developer with strong interests i
 
 ## 👋 About Me
 
-Welcome to my GitHub! I'm a Computer Engineering enthusiast, a recent Diploma graduate, and a passionate developer focused on software development, bug bounty hunting, and security research. I'm actively learning Python, C, Flutter, Django, Java, java Spring Boot and Android development, while working on innovative projects like Smart Attendance systems and Wildlife Intrusion Detection.
-
-I love building solutions that solve real-world problems, especially where technology meets community needs — like wildlife-village conflict management. I'm ambitious, hardworking, and excited about both development and cybersecurity fields.
+Welcome to my GitHub! I'm a technology enthusiast driven by curiosity, creativity, and a passion for understanding how things work. My interests go beyond conventional software development, spanning Artificial Intelligence, Cybersecurity, Ethical Hacking, Vulnerability Research, Android Development, and emerging technologies.
+I enjoy exploring complex technical concepts, investigating security vulnerabilities, developing practical applications, and experimenting with innovative ideas. I'm particularly interested in projects that bridge the gap between technology and real-world problems.
+For me, programming is not just about writing code; it's about understanding problems, exploring possibilities, and creating meaningful solutions. I'm continuously learning, experimenting, and challenging myself to grow as a software engineer.
 
 ---
 
