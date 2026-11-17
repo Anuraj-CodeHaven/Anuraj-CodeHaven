@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Anuraj R**,a Java Developer at **VSSC, ISRO***, passionate about software engineering and building innovative technology solutions. I enjoy working with Java, Spring Boot, Python, and web technologies, with a strong interest in backend development, system design, and solving real-world engineering challenges.
+I'm **Anuraj R**,a Java Developer at **VSSC, ISRO**, passionate about software engineering and building innovative technology solutions. I enjoy working with Java, Spring Boot, Python, and web technologies, with a strong interest in backend development, system design, and solving real-world engineering challenges.
 I believe in learning by building, exploring beyond boundaries, and turning technical ideas into practical solutions. My curiosity extends from application development to artificial intelligence and cybersecurity, constantly motivating me to experiment with new technologies and improve my problem-solving skills.
 
 <a href="https://linkedin.com/in/anuraj-r-742703301"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
